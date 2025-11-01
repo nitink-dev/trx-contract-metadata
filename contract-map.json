@@ -40,5 +40,12 @@
     "symbol": "WIN",
     "decimals": 6,
     "logo": "win.jpg"
+  },
+  "0x458b5455A4b39C07B0309e597217108ED4C47DBB": {
+  "name": "Tether USDT",
+  "symbol": "USDT",
+  "decimals": 6,
+  "logo": "images/tusdt.png",
+  "trc20": true
   }
 }
